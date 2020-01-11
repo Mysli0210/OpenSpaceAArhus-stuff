@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="OSAA_MTRL label.svg">
+   sodipodi:docname="OSAA_MTRL_label.svg"
+   inkscape:export-filename="H:\Users\Kasper\Dokumenter\Dokumenter\OSAA\OSAA_MTRL_label.png"
+   inkscape:export-xdpi="218.3"
+   inkscape:export-ydpi="218.3">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -37,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6122035"
-     inkscape:cx="407.78185"
-     inkscape:cy="45.386177"
+     inkscape:zoom="0.80610175"
+     inkscape:cx="230.18958"
+     inkscape:cy="628.4736"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -130,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -209,7 +212,7 @@
          x="13.849287"
          y="-244.7782"
          style="font-size:2.82222223px;stroke-width:0.26458332"
-         id="tspan5584">it's free to use! - This template can be found at openspaceaarhus.github.com</tspan></text>
+         id="tspan5584">it's free to use! - This template can be found at http://osaa.dk/wiki/index.php/Materiale_Labels</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -301,7 +304,7 @@
            y="6.7173429"
            x="13.323861"
            id="tspan820-6"
-           sodipodi:role="line">Name: OSAAnaut</tspan></text>
+           sodipodi:role="line">Name: </tspan></text>
       <text
          id="text827-9"
          y="14.907524"
@@ -333,7 +336,7 @@
            y="23.13727"
            x="13.534097"
            id="tspan838-9"
-           sodipodi:role="line">TLF: +45 12345678</tspan></text>
+           sodipodi:role="line">TLF: +45 </tspan></text>
       <text
          id="text847-6"
          y="32.499004"
@@ -344,7 +347,7 @@
            y="32.499004"
            x="13.321488"
            id="tspan845-7"
-           sodipodi:role="line">M@il: OSAA@OSAA.DK</tspan></text>
+           sodipodi:role="line">Mail: </tspan></text>
       <rect
          y="0"
          x="0"
