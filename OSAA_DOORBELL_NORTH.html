@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+	h1 {text-align: center;}
+	h2 {text-align: center;}
+	body {min-height: 100%; margin: 0; align-items: center; background-color: white; font-family: 'Bender', sans-serif;}
+	</style>
+    <meta charset="UTF-8">
+    <title>OSAA Doorbell</title>
+  <script>
+      const urlToSendPostTo = 'https://assistant.okk-design.eu/api/webhook/doorbell-XeRE_xclaI4R9Q_lrdbc5ur8';
+    function ringDoorBell() {
+        const xhr = new XMLHttpRequest();
+        xhr.open("POST", urlToSendPostTo, true);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+        xhr.onreadystatechange = () => { // Call a function when the state changes.
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+                switch (xhr.status) {
+                    case 200: alert("Ringer på, Indgang Nord");
+                    break;
+                    default: alert("Noget gik galt, Ring på tlf 91 85 01 78")
+                }
+            }
+        }
+        xhr.send(null);
+    }
+  </script>
+  <link href="https://fonts.cdnfonts.com/css/bender" rel="stylesheet">
+</head>
+<body>
+	<h1>Open Space AArhus, indgang Nord</h1>
+	<h2>Tryk på logoet for at ringe på</h2>
+	<div style="text-align:center">  
+	<button id="doorbell" onclick="ringDoorBell()" style="height:200px;width:200px;background-color: white; text-align: center;border: none;"/>
+	<svg id="doorbell" viewBox="0 0 55 55">
+  <g
+     style="display:inline"
+     transform="translate(-113.73001,-94.065167)"
+     id="layer1">
+    <g
+       transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
+       id="g4551" />
+    <g
+       id="g4590"
+       transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)" />
+    <g
+       transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
+       id="g4594" />
+    <g
+       id="g4598"
+       transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)" />
+    <g
+       transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
+       id="g4602" />
+    <g
+       style="fill:none;stroke:#000000"
+       id="g4606"
+       transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.21397,66.383791)" />
+    <g
+       transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,190.45372,107.16758)"
+       id="g6439"
+       style="fill:none;stroke:#000000" />
+    <g
+       style="fill:none;stroke:#000000"
+       id="g6443"
+       transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,173.7538,159.81004)" />
+    <g
+       transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,119.81413,171.66872)"
+       id="g6447"
+       style="fill:none;stroke:#000000" />
+    <g
+       style="fill:none;stroke:#000000"
+       id="g6451"
+       transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,82.574374,130.88493)" />
+    <g
+       transform="matrix(0.2643812,-0.01034012,0.01034012,0.2643812,94.978518,91.216587)"
+       id="g6455"
+       style="fill:#33ff00;stroke:none;stroke-opacity:1;fill-opacity:1">
+      <path
+         d="m 169.99695,157.19778 4.23746,19.46369 -9.25423,8.33899 4.12387,19.49968 12.05763,3.91469 3.87331,17.79519 -89.243031,-28.99682 13.593331,-12.11993 12.05582,3.92024 14.79791,-13.35162 -2.5853,-12.18588 14.86865,-13.25574 z m 30.76714,-18.0818 18.97478,6.06209 2.59466,12.1839 18.94915,6.17846 9.41904,-8.48487 17.34774,5.54321 -69.7335,62.78832 -3.6995,-17.83213 9.42294,-8.48053 -4.16389,-19.49117 -11.84593,-3.85401 -4.04548,-19.5045 z m -0.27573,-35.68603 14.73732,-13.401589 11.84889,3.844903 14.82528,-13.321216 -2.63859,-12.399559 13.47443,-12.251979 19.50953,91.78514 -17.29283,-5.7122 -2.63288,-12.40077 -18.9618,-6.13956 -9.26063,8.33188 -18.91414,-6.24876 z m -31.0429,-17.604216 -4.23746,-19.46369 9.25423,-8.33899 -4.12387,-19.49968 -12.05763,-3.91469 -3.87331,-17.79519 89.24303,28.99682 -13.59333,12.11993 -12.05582,-3.92024 -14.79791,13.35162 2.5853,12.18588 -14.86865,13.25574 z M 138.67833,103.90757 119.70355,97.845473 117.10889,85.66158 98.159735,79.483116 88.740699,87.967985 71.392957,82.424774 141.12646,19.636453 l 3.6995,17.832135 -9.42294,8.480526 4.16389,19.491176 11.84593,3.854005 4.04548,19.504499 z m 0.27576,35.68602 -14.73732,13.4016 -11.8489,-3.84491 -14.825279,13.32122 2.638589,12.39956 -13.474427,12.25198 -19.509532,-91.785145 17.292833,5.712205 2.632882,12.40077 18.961794,6.13955 9.26063,-8.33187 18.91414,6.24876 z"
+         style="fill:#33ff00;stroke:none;stroke-width:1.20354;stroke-opacity:1;fill-opacity:1"
+         id="path6453" />
+    </g>
+  </g>
+</svg>
+</div> 
+<div style="text-align:center"> 
+ <iframe src="https://spaceapi.osaa.dk/ " height="280" width="200" title="Iframe Example"></iframe> 
+</div>
+</body>
+</html>
