@@ -2,39 +2,38 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="420mm"
    viewBox="0 0 297 420"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Foldeskilt.svg">
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Foldeskilt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern7354"
-       id="pattern7366"
-       patternTransform="matrix(0.01477423,0,0,0.01477423,47.700273,25.706842)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern7335"
-       id="pattern7354"
-       patternTransform="matrix(0.16245433,0,0,0.16245433,26.592751,-0.23241963)" />
+       xlink:href="#pattern14"
+       preserveAspectRatio="xMidYMid"
+       id="pattern15"
+       patternTransform="matrix(0.20683824,-0.04098512,0.04098512,0.20683824,1242.7488,1399.5259)"
+       x="0"
+       y="0" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="404.95182"
        height="351.51342"
        patternTransform="matrix(0.26458333,0,0,0.26458333,26.785751,-0.03942005)"
-       id="pattern7335">
+       id="pattern7335"
+       inkscape:label="pattern7335">
       <rect
          y="0.14896527"
          x="0"
@@ -93,6 +92,52 @@
         </g>
       </g>
     </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="405.01803"
+       height="350.7526"
+       patternTransform="translate(1792,1805)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern14"
+       inkscape:label="pattern"
+       style="fill:#000000">
+      <g
+         id="g5"
+         inkscape:label="pattern">
+        <rect
+           style="fill:none;stroke:none;stroke-width:3.77953"
+           width="405.01801"
+           height="350.75259"
+           x="3.7074494e-06"
+           y="3.6834565e-06"
+           id="rect3007" />
+        <path
+           d="m 398.25261,5.4644244e-4 h 6.76543 V 350.75204 h -6.76543 z M 1.6147779e-5,5.4266292e-4 H 6.7654272 V 350.75204 H 1.6147779e-5 Z"
+           style="display:inline;fill:none;stroke:none;stroke-width:0.496849"
+           id="path3"
+           inkscape:connector-curvature="0" />
+        <rect
+           id="rect3"
+           y="3.6834565e-06"
+           x="6.765419"
+           height="350.75259"
+           width="391.48715"
+           style="display:inline;fill:none;fill-rule:nonzero;stroke:none;stroke-width:14.2848" />
+        <g
+           style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:3.77953"
+           id="g4"
+           transform="matrix(0.97450111,0.20713663,-0.20713663,0.97450111,-38.968516,-153.56883)"
+           inkscape:transform-center-x="12.500014"
+           inkscape:transform-center-y="17.037324">
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             d="m 169.99695,157.19778 4.23746,19.46369 -9.25423,8.33899 4.12387,19.49968 12.05763,3.91469 3.87331,17.79519 -89.243031,-28.99682 13.593331,-12.11993 12.05582,3.92024 14.79791,-13.35162 -2.5853,-12.18588 14.86865,-13.25574 z m 30.76714,-18.0818 18.97478,6.06209 2.59466,12.1839 18.94915,6.17846 9.41904,-8.48487 17.34774,5.54321 -69.7335,62.78832 -3.6995,-17.83213 9.42294,-8.48053 -4.16389,-19.49117 -11.84593,-3.85401 -4.04548,-19.5045 z m 61.72637,-37.3229 9.75476,45.89257 -17.29283,-5.7122 -2.63288,-12.40077 -18.9618,-6.13956 -9.26063,8.33188 -18.91414,-6.24876 -2.34729,-11.04314 z m -123.53637,37.80051 -14.73732,13.4016 -11.8489,-3.84491 -14.825279,13.32122 2.638589,12.39956 -13.474427,12.25198 -9.754766,-45.89257 59.654803,-12.68002 z m 333.55575,265.9468 14.73732,-13.40159 11.84889,3.8449 14.82528,-13.32121 -2.63859,-12.39956 13.47443,-12.25198 9.75476,45.89257 -59.6548,12.68002 z m -31.0429,-17.60422 -4.23746,-19.46369 9.25423,-8.33899 -4.12387,-19.49968 -12.05763,-3.91469 -3.87331,-17.79519 89.24303,28.99682 -13.59333,12.11993 -12.05582,-3.92024 -14.79791,13.35162 2.5853,12.18588 -14.86865,13.25574 z m -30.76713,18.08184 -18.97478,-6.0621 -2.59466,-12.18389 -18.94916,-6.17846 -9.41903,8.48487 -17.34775,-5.54322 69.73351,-62.78832 3.6995,17.83214 -9.42294,8.48052 4.16389,19.49118 11.84593,3.85401 4.04548,19.50449 z m -61.72634,37.3229 -9.75477,-45.89257 17.29283,5.7122 2.63288,12.40077 18.9618,6.13955 9.26063,-8.33187 18.91414,6.24876 2.34729,11.04314 z m -75.28665,4.46062 14.73732,-13.40159 11.84889,3.84491 14.82528,-13.32122 -2.63859,-12.39956 13.47443,-12.25198 9.75476,45.89257 -59.6548,12.68001 z m -31.0429,-17.60421 -4.23746,-19.46369 9.25423,-8.33899 -4.12387,-19.49968 -12.05763,-3.91469 -3.87331,-17.79519 89.24303,28.99682 -13.59333,12.11993 -12.05582,-3.92024 -14.79791,13.35162 2.5853,12.18588 -14.86865,13.25574 z m -30.76713,18.08183 -18.97478,-6.06209 -2.59466,-12.1839 -18.94916,-6.17846 -9.41903,8.48487 -17.34775,-5.54321 69.73351,-62.78832 3.6995,17.83213 -9.42294,8.48053 4.16389,19.49117 11.84593,3.85401 4.04548,19.5045 z m -61.72635,37.3229 -9.75476,-45.89257 17.29283,5.7122 2.63288,12.40077 18.9618,6.13955 9.26063,-8.33187 18.91414,6.24876 2.34729,11.04314 z m 218.66954,-370.66541 4.23746,19.46369 -9.25423,8.33899 4.12387,19.49968 12.05763,3.91469 3.87331,17.79519 -89.24303,-28.99682 13.59333,-12.11993 12.05582,3.92024 14.79791,-13.35162 -2.5853,-12.18588 14.86865,-13.25574 z m 30.76714,-18.081804 18.97478,6.062094 2.59466,12.1839 18.94915,6.17846 9.41904,-8.48487 17.34774,5.54321 -69.7335,62.78832 -3.6995,-17.83213 9.42294,-8.48053 -4.16389,-19.49117 -11.84593,-3.85401 -4.04548,-19.5045 z m 61.72637,-37.322898 9.75476,45.892572 -17.29283,-5.712204 -2.63288,-12.40077 -18.9618,-6.13956 -9.26063,8.33188 -18.91414,-6.24876 -2.34729,-11.043145 z m -123.53637,37.800508 -14.73732,13.401604 -11.8489,-3.84491 -14.82528,13.32122 2.63859,12.39956 -13.47443,12.25198 -9.75477,-45.892575 59.65481,-12.680019 z m -199.82531,235.099884 18.97478,6.06209 2.59466,12.1839 18.94915,6.17846 9.41904,-8.48487 17.34774,5.54321 -69.7335,62.78832 -3.6995,-17.83213 9.42294,-8.48053 -4.16389,-19.49117 -11.84593,-3.85401 -4.04548,-19.5045 z m -0.27573,-35.68603 14.73732,-13.40158 11.84889,3.8449 14.82528,-13.32122 -2.63859,-12.39956 13.47443,-12.25198 19.50953,91.78514 -17.29283,-5.7122 -2.63288,-12.40077 -18.9618,-6.13956 -9.26063,8.33188 -18.91414,-6.24876 z m -31.0429,-17.60421 -4.23746,-19.46369 9.25423,-8.33899 -4.12387,-19.49968 -12.057628,-3.91469 -3.87331,-17.79519 89.243028,28.99682 -13.59333,12.11993 -12.05582,-3.92024 -14.79791,13.35162 2.5853,12.18588 -14.86865,13.25574 z m 398.19753,-13.15024 4.23746,19.46369 -9.25423,8.33899 4.12387,19.49968 12.05763,3.91469 3.87331,17.79519 -89.24303,-28.99682 13.59333,-12.11993 12.05582,3.92024 14.79791,-13.35162 -2.5853,-12.18588 14.86865,-13.25574 z m -31.31862,-53.29021 -18.97478,-6.0621 -2.59466,-12.18389 -18.94915,-6.17847 -9.41904,8.48487 -17.34774,-5.54321 69.7335,-62.78832 3.6995,17.83213 -9.42294,8.48053 4.16389,19.49118 11.84593,3.854 4.04548,19.5045 z m 0.27576,35.68602 -14.73732,13.4016 -11.8489,-3.84491 -14.82528,13.32122 2.63859,12.39956 -13.47443,12.25198 -19.50953,-91.78515 17.29284,5.71221 2.63288,12.40077 18.96179,6.13955 9.26063,-8.33187 18.91414,6.24876 z m -167.78016,59.86534 4.23746,19.46369 -9.25423,8.33899 4.12387,19.49968 12.05763,3.91469 3.87331,17.79519 -89.24303,-28.99682 13.59333,-12.11993 12.05582,3.92024 14.79791,-13.35162 -2.5853,-12.18588 14.86865,-13.25574 z m 30.76714,-18.0818 18.97478,6.06209 2.59466,12.1839 18.94915,6.17846 9.41904,-8.48487 17.34774,5.54321 -69.7335,62.78832 -3.6995,-17.83213 9.42294,-8.48053 -4.16389,-19.49117 -11.84593,-3.85401 -4.04548,-19.5045 z m -0.27573,-35.68603 14.73732,-13.40159 11.84889,3.8449 14.82528,-13.32121 -2.63859,-12.39956 13.47443,-12.25198 19.50953,91.78514 -17.29283,-5.7122 -2.63288,-12.40077 -18.9618,-6.13956 -9.26063,8.33188 -18.91414,-6.24876 z m -31.0429,-17.60422 -4.23746,-19.46369 9.25423,-8.33899 -4.12387,-19.49968 -12.05763,-3.91469 -3.87331,-17.79519 89.24303,28.99682 -13.59333,12.11993 -12.05582,-3.92024 -14.79791,13.35162 2.5853,12.18588 -14.86865,13.25574 z m -30.76713,18.08184 -18.97478,-6.0621 -2.59466,-12.18389 -18.94916,-6.17846 -9.41903,8.48487 -17.34775,-5.54322 69.73351,-62.78832 3.6995,17.83214 -9.42294,8.48052 4.16389,19.49118 11.84593,3.85401 4.04548,19.50449 z m 0.27576,35.68602 -14.73732,13.4016 -11.8489,-3.84491 -14.82528,13.32122 2.63859,12.39956 -13.47443,12.25198 -19.50953,-91.78514 17.29283,5.7122 2.63288,12.40077 18.9618,6.13955 9.26063,-8.33187 18.91414,6.24876 z"
+             style="fill:#dedede;fill-opacity:1;stroke:none;stroke-width:4.54881"
+             id="path4" />
+        </g>
+      </g>
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -101,21 +146,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="984.56697"
-     inkscape:cy="1244.1849"
+     inkscape:zoom="0.35"
+     inkscape:cx="392.85714"
+     inkscape:cy="818.57143"
      inkscape:document-units="mm"
-     inkscape:current-layer="g289"
+     inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="5.6696429,334.13095"
        orientation="1,0"
@@ -135,642 +182,181 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background">
+    <rect
+       style="fill:url(#pattern15);stroke:none;stroke-width:0.264583"
+       width="305.22061"
+       height="425.57986"
+       x="-4.9137058"
+       y="-3.3333297"
+       id="rect14" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,123)">
-    <g
-       id="g289"
-       transform="translate(-671.41018,-238.65487)">
-      <g
-         transform="translate(0,274.50003)"
-         id="layer1-6"
-         inkscape:label="Layer 1">
-        <g
-           inkscape:label="pattern 12DEG scale with node tool (F2)"
-           id="layer1-2"
-           transform="matrix(17.516685,0,0,17.516685,-515.7274,-423.90611)"
-           style="display:inline">
-          <rect
-             style="fill:url(#pattern7366);stroke:none;stroke-width:0.36227956"
-             width="38.815903"
-             height="33.693661"
-             x="47.614384"
-             y="25.574585"
-             id="rect7346"
-             transform="rotate(-12)" />
-          <g
-             style="display:inline;fill:#f2f2f2"
-             transform="translate(-136.51405,-116.14909)"
-             id="layer1-4"
-             inkscape:label="Layer 1"
-             inkscape:tile-cx="2.9740045e-006"
-             inkscape:tile-cy="-9.6339399e-006"
-             inkscape:tile-w="49.999998"
-             inkscape:tile-h="55.754345"
-             inkscape:tile-x0="-24.999996"
-             inkscape:tile-y0="-27.877182">
-            <g
-               inkscape:transform-center-y="0.032743566"
-               inkscape:transform-center-x="14.068322"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               id="g4551"
-               style="fill:#f2f2f2" />
-            <g
-               id="g4590"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               inkscape:transform-center-x="10.357629"
-               inkscape:transform-center-y="14.157977"
-               style="fill:#f2f2f2" />
-            <g
-               inkscape:transform-center-y="14.125234"
-               inkscape:transform-center-x="-10.414336"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               id="g4594"
-               style="fill:#f2f2f2" />
-            <g
-               id="g4598"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               inkscape:transform-center-x="-14.068321"
-               inkscape:transform-center-y="-0.032743373"
-               style="fill:#f2f2f2" />
-            <g
-               inkscape:transform-center-y="-14.157979"
-               inkscape:transform-center-x="-10.35763"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               id="g4602"
-               style="fill:#f2f2f2" />
-            <g
-               id="g4606"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               inkscape:transform-center-x="10.414335"
-               inkscape:transform-center-y="-14.125238"
-               style="fill:#f2f2f2" />
-          </g>
-          <use
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#layer1-4"
-             xlink:href="#layer1-4"
-             id="use6863"
-             inkscape:tile-cx="2.9740045e-006"
-             inkscape:tile-cy="-9.6339399e-006"
-             inkscape:tile-w="49.999998"
-             inkscape:tile-h="55.754345"
-             inkscape:tile-x0="-24.999996"
-             inkscape:tile-y0="-27.877182"
-             width="100%"
-             height="100%" />
-          <use
-             x="0"
-             y="0"
-             inkscape:tiled-clone-of="#use6863"
-             xlink:href="#use6863"
-             id="use7163"
-             width="100%"
-             height="100%" />
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7165"
-             transform="translate(-109.72805,-69.686207)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7293"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7295" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7297"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7299" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7301"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7305" />
-          </g>
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7167"
-             transform="translate(-82.942052,-23.223323)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7277"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7279" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7281"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7283" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7285"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7289" />
-          </g>
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7169"
-             transform="translate(-82.942552,-116.14909)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7181"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7183" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7185"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7187" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7189"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7193" />
-          </g>
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7171"
-             transform="translate(-56.156553,-69.686207)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7213"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7215" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7217"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7219" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7221"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7225" />
-          </g>
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7173"
-             transform="translate(-29.37055,-23.223323)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7261"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7263" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7265"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7267" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7269"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7273" />
-          </g>
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7175"
-             transform="translate(-29.37105,-116.14909)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7197"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7199" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7201"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7203" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7205"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7209" />
-          </g>
-          <g
-             inkscape:tile-y0="-27.877182"
-             inkscape:tile-x0="-24.999996"
-             inkscape:label="Layer 1"
-             id="use7177"
-             transform="translate(-2.58506,-69.686207)"
-             style="display:inline;fill:#f2f2f2">
-            <g
-               style="fill:#f2f2f2"
-               id="g7229"
-               transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-               inkscape:transform-center-x="14.068322"
-               inkscape:transform-center-y="0.032743566" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="14.157977"
-               inkscape:transform-center-x="10.357629"
-               transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-               id="g7231" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7233"
-               transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-               inkscape:transform-center-x="-10.414336"
-               inkscape:transform-center-y="14.125234" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-0.032743373"
-               inkscape:transform-center-x="-14.068321"
-               transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-               id="g7235" />
-            <g
-               style="fill:#f2f2f2"
-               id="g7237"
-               transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-               inkscape:transform-center-x="-10.35763"
-               inkscape:transform-center-y="-14.157979" />
-            <g
-               style="fill:#f2f2f2"
-               inkscape:transform-center-y="-14.125238"
-               inkscape:transform-center-x="10.414335"
-               transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-               id="g7241" />
-          </g>
-        </g>
-      </g>
-      <g
-         inkscape:label="Layer 2"
-         id="layer2-9"
-         transform="matrix(0.18988565,0,0,0.18988565,611.26342,66.793129)">
-        <g
-           transform="matrix(0.26458333,0,0,0.26458333,-89.953805,-77.799051)"
-           id="g1809">
-          <g
-             id="g5379" />
-          <g
-             id="layer6"
-             inkscape:label="Text"
-             style="display:inline" />
-          <g
-             transform="matrix(1.9036675,0,0,1.9036675,3313.7525,1787.7053)"
-             id="layer7"
-             inkscape:label="symmetric logo 12DEG"
-             style="display:inline">
-            <g
-               style="display:inline;fill:#33ff00;fill-opacity:1;stroke:none"
-               transform="matrix(3.1282183,-0.66492331,0.66492331,3.1282183,-932.13519,-223.61096)"
-               id="layer1-9"
-               inkscape:label="Layer 1">
-              <g
-                 inkscape:transform-center-y="0.032743566"
-                 inkscape:transform-center-x="14.068322"
-                 transform="matrix(0.25880155,0.05500997,-0.05500997,0.25880155,93.158208,73.999722)"
-                 id="g4551-2"
-                 style="fill:#33ff00;fill-opacity:1;stroke:none" />
-              <g
-                 id="g4590-0"
-                 transform="matrix(0.17704081,-0.19662373,0.19662373,0.17704081,72.13672,131.31739)"
-                 inkscape:transform-center-x="10.357629"
-                 inkscape:transform-center-y="14.157977"
-                 style="fill:#33ff00;fill-opacity:1;stroke:none" />
-              <g
-                 inkscape:transform-center-y="14.125234"
-                 inkscape:transform-center-x="-10.414336"
-                 transform="matrix(-0.08176074,-0.2516337,0.2516337,-0.08176074,111.26453,178.18137)"
-                 id="g4594-8"
-                 style="fill:#33ff00;fill-opacity:1;stroke:none" />
-              <g
-                 id="g4598-8"
-                 transform="matrix(-0.25880155,-0.05500997,0.05500997,-0.25880155,171.41384,167.72768)"
-                 inkscape:transform-center-x="-14.068321"
-                 inkscape:transform-center-y="-0.032743373"
-                 style="fill:#33ff00;fill-opacity:1;stroke:none" />
-              <g
-                 inkscape:transform-center-y="-14.157979"
-                 inkscape:transform-center-x="-10.35763"
-                 transform="matrix(-0.17704081,0.19662373,-0.19662373,-0.17704081,192.43533,110.41001)"
-                 id="g4602-9"
-                 style="fill:#33ff00;fill-opacity:1;stroke:none" />
-              <g
-                 id="g4606-1"
-                 transform="matrix(0.08176074,0.2516337,-0.2516337,0.08176074,153.30752,63.546028)"
-                 inkscape:transform-center-x="10.414335"
-                 inkscape:transform-center-y="-14.125238"
-                 style="fill:#33ff00;fill-opacity:1;stroke:none">
-                <path
-                   inkscape:connector-curvature="0"
-                   d="m 136.72621,128.9142 2.35375,11.04175 -14.73732,13.4016 -11.8489,-3.84491 -14.825278,13.32122 2.638588,12.39955 -13.474428,12.25198 -9.739506,-45.89578 z m 0,-2e-5 -2.34083,-11.04449 -18.91414,-6.24877 -9.26064,8.33188 -18.961792,-6.13955 -2.632887,-12.40078 -17.292829,-5.71219 9.769988,45.88933 z m 10.21266,-31.913277 -8.38557,7.559287 -18.9748,-6.062102 -2.59465,-12.183906 -18.949149,-6.178458 -9.419039,8.484871 -17.347739,-5.543214 34.877167,-31.38255 z m 0,0 8.3944,-7.549476 -4.04547,-19.504512 -11.84596,-3.854006 -4.16388,-19.491171 9.42295,-8.480533 L 141.0014,20.289079 106.14506,51.6948 Z m 32.74405,-7.112241 -10.7393,-3.482469 -4.23748,-19.463704 9.25425,-8.338989 -4.12387,-19.499678 -12.05763,-3.914691 -3.87331,-17.79519 44.61667,14.513234 z m 1e-5,0 10.73524,3.495035 14.86866,-13.255748 -2.58531,-12.185894 14.79791,-13.351612 12.05583,3.920239 13.59333,-12.119932 -44.62633,-14.483607 z m 22.5314,24.801088 -2.35375,-11.04175 14.73732,-13.401608 11.8489,3.844917 14.82528,-13.32122 -2.63859,-12.399559 13.47443,-12.251978 9.73951,45.895788 z m 0,1e-5 2.34083,11.0445 18.91414,6.24877 9.26064,-8.33189 18.96179,6.13956 2.63289,12.40077 17.29284,5.7122 -9.77,-45.88933 z m -10.21265,31.91328 8.38557,-7.55928 18.9748,6.0621 2.59465,12.1839 18.94915,6.17846 9.41904,-8.48487 17.34774,5.54322 -34.87716,31.38255 z m 0,2e-5 -8.3944,7.54946 4.04548,19.50452 11.84595,3.854 4.16388,19.49117 -9.42295,8.48054 3.69952,17.83211 34.85633,-31.40572 z m -32.74405,7.11224 10.73932,3.48248 4.23746,19.46369 -9.25423,8.33899 4.12387,19.49968 12.05763,3.91469 3.87331,17.79519 -44.61667,-14.51324 z m -1e-5,0 -10.73523,-3.49503 -14.86866,13.25574 2.5853,12.18589 -14.79791,13.35162 -12.05582,-3.92024 -13.593321,12.11993 44.626311,14.48361 z"
-                   style="fill:#33ff00;fill-opacity:1;stroke:none;stroke-width:1.20354486"
-                   id="path4604" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="820.11932"
-         y="143.69356"
-         id="text293"><tspan
-           sodipodi:role="line"
-           id="tspan291"
-           x="823.37976"
-           y="143.69356"
-           style="font-size:19.75555611px;text-align:center;text-anchor:middle;stroke-width:0.26458332">  Kom til åbent hus, i </tspan><tspan
-           sodipodi:role="line"
-           x="823.37976"
-           y="168.388"
-           style="font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#33ff00;fill-opacity:1;stroke-width:0.26458332"
-           id="tspan295">Open Space AArhus </tspan><tspan
-           sodipodi:role="line"
-           x="820.11932"
-           y="193.08244"
-           style="font-size:19.75555611px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan297">hver tirsdag efter kl 15:30</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="819.74817"
-         y="224.95848"
-         id="text4911"><tspan
-           sodipodi:role="line"
-           id="tspan4909"
-           x="821.84418"
-           y="224.95848"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Open Space Aarhus (<tspan
-   style="font-size:12.69999981px;text-align:center;text-anchor:middle;fill:#33ff00;fill-opacity:1"
+     transform="translate(0,123)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 46.512685,-94.144074 -0.67863,0.61176 -1.535599,-0.490595 -0.209981,-0.986024 -1.533524,-0.500012 -0.762268,0.686666 -1.403924,-0.448603 2.822552,-2.539739 z m 2e-6,-10e-7 0.679344,-0.610966 -0.327393,-1.578468 -0.958673,-0.311899 -0.336977,-1.577389 0.762584,-0.686316 -0.299396,-1.443127 -2.820866,2.541616 z m 2.649922,-0.57558 -0.869116,-0.281831 -0.342931,-1.575167 0.748931,-0.67486 -0.333739,-1.578077 -0.975804,-0.31681 -0.31346,-1.44014 3.610755,1.174537 z m 0,0 0.868786,0.282847 1.203296,-1.072765 -0.209225,-0.986186 1.197571,-1.080524 0.975659,0.317259 1.100086,-0.980847 -3.611536,-1.172135 z m 1.82343,2.00711 -0.190484,-0.893591 1.192667,-1.084571 0.958912,0.311163 1.199787,-1.078064 -0.213538,-1.003476 1.090465,-0.991533 0.788202,3.714272 z m 1e-6,0 0.18944,0.893815 1.53069,0.505702 0.749448,-0.674286 1.534548,0.496864 0.213075,1.003575 1.399481,0.462279 -0.79067,-3.71375 z m -0.826495,2.582693 0.678629,-0.611761 1.5356,0.490596 0.209981,0.986024 1.533525,0.500012 0.762267,-0.686666 1.403924,0.448603 -2.822552,2.539739 z m -1e-6,0 -0.679346,0.610967 0.327394,1.578468 0.958674,0.311899 0.336976,1.577388 -0.762583,0.686316 0.299394,1.443127 2.820867,-2.541616 z m -2.649922,0.575581 0.869115,0.281831 0.342931,1.575167 -0.748931,0.67486 0.333739,1.578078 0.975805,0.316809 0.31346,1.440136 -3.610755,-1.174532 z m -2e-6,10e-7 -0.868784,-0.282847 -1.203298,1.072766 0.209225,0.986185 -1.19757,1.080524 -0.97566,-0.317259 -1.100084,0.980846 3.611536,1.172136 z m -1.82343,-2.00711 0.190485,0.893593 -1.192668,1.084569 -0.958912,-0.311162 -1.199785,1.078064 0.213536,1.003477 -1.090463,0.991533 -0.788203,-3.714272 z m 0,0 -0.18944,-0.893814 -1.53069,-0.505702 -0.749449,0.674285 -1.534548,-0.496864 -0.213075,-1.003574 -1.399481,-0.462279 0.790669,3.713749 z"
+       style="fill:#33ff00;fill-opacity:1;stroke:none;stroke-width:0.0974002"
+       id="path4604"
+       inkscape:label="Logo" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.70914"
+       y="-94.961311"
+       id="text293"><tspan
+         sodipodi:role="line"
+         id="tspan291"
+         x="148.70914"
+         y="-94.961311"
+         style="font-size:19.7556px;text-align:center;text-anchor:middle;stroke-width:0.264583">  Kom til åbent hus, i </tspan><tspan
+         sodipodi:role="line"
+         x="148.70914"
+         y="-70.266815"
+         style="font-size:19.7556px;text-align:center;text-anchor:middle;fill:#33ff00;fill-opacity:1;stroke-width:0.264583"
+         id="tspan295">Open Space AArhus </tspan><tspan
+         sodipodi:role="line"
+         x="148.70914"
+         y="-45.572311"
+         style="font-size:19.7556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan297">hver tirsdag efter kl 15:30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.33798"
+       y="-13.696389"
+       id="text4911"><tspan
+         sodipodi:role="line"
+         id="tspan4909"
+         x="148.33798"
+         y="-13.696389"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583">Open Space Aarhus (<tspan
+   style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#33ff00;fill-opacity:1"
    id="tspan4915">OSAA</tspan>) </tspan><tspan
-           sodipodi:role="line"
-           x="819.74817"
-           y="240.83348"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4941">er en organisation med et enkelt formål:</tspan><tspan
-           sodipodi:role="line"
-           x="819.74817"
-           y="256.70847"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4943">At skabe et åbent fysisk rum i Aarhus,</tspan><tspan
-           sodipodi:role="line"
-           x="819.74817"
-           y="272.58347"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4953">hvor teknisk interesserede og kreative</tspan><tspan
-           sodipodi:role="line"
-           x="821.84418"
-           y="288.45847"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4957">mennesker kan mødes om teknologi, </tspan><tspan
-           sodipodi:role="line"
-           x="821.84418"
-           y="304.33347"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4959">udveksle erfaringer og idéer, </tspan><tspan
-           sodipodi:role="line"
-           x="819.74817"
-           y="320.20847"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4961">og ikke mindst socialisere og skabe kontakter</tspan><tspan
-           sodipodi:role="line"
-           x="819.74817"
-           y="336.08347"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4963">til andre ligesindede.</tspan><tspan
-           sodipodi:role="line"
-           x="819.74817"
-           y="351.95847"
-           style="font-size:12.69999981px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4913" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="710.34174"
-         y="275.22928"
-         id="text4921"><tspan
-           sodipodi:role="line"
-           id="tspan4919"
-           x="710.34174"
-           y="290.85455"
-           style="stroke-width:0.26458332" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="819.81775"
-         y="363.6756"
-         id="text4967"><tspan
-           sodipodi:role="line"
-           id="tspan4965"
-           x="819.81775"
-           y="363.6756"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Vores medlemmer, spænder bredt</tspan><tspan
-           sodipodi:role="line"
-           x="821.91376"
-           y="379.5506"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4969">på både alder og interesse. Kort sagt. </tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="395.4256"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4979">Alle kan være med!</tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="411.3006"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4971">Som betalende medlem</tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="427.1756"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4981"> får man adgang til vores lokaler 24/7</tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="443.0506"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4983"> og kan frit benytte diverse faciliiteter,</tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="458.9256"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4987">der bla. omfatter:</tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="474.8006"
-           style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           id="tspan4991">Træ/Metal og <tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="2.1786106"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4941">er en organisation med et enkelt formål:</tspan><tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="18.05361"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4943">At skabe et åbent fysisk rum i Aarhus,</tspan><tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="33.928612"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4953">hvor teknisk interesserede og kreative</tspan><tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="49.803612"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4957">mennesker kan mødes om teknologi, </tspan><tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="65.678612"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4959">udveksle erfaringer og idéer, </tspan><tspan
+         sodipodi:role="line"
+         x="148.338"
+         y="81.553612"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4961">og ikke mindst socialisere og skabe kontakter</tspan><tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="97.428612"
+         style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4963">til andre ligesindede.</tspan><tspan
+         sodipodi:role="line"
+         x="148.33798"
+         y="113.30361"
+         id="tspan4913" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.931557"
+       y="36.574409"
+       id="text4921" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Bender;-inkscape-font-specification:'Bender Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.40756"
+       y="125.02073"
+       id="text4967"><tspan
+         sodipodi:role="line"
+         id="tspan4965"
+         x="148.40756"
+         y="125.02073"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Vores medlemmer, spænder bredt</tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="140.89572"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4969">på både alder og interesse. Kort sagt. </tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="156.77072"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4979">Alle kan være med!</tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="172.64572"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4971">Som betalende medlem</tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="188.52072"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4981"> får man adgang til vores lokaler 24/7</tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="204.39572"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4983"> og kan frit benytte diverse faciliiteter,</tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="220.27072"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4987">der bla. omfatter:</tspan><tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="236.14572"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4991">Træ/Metal og <tspan
    style="fill:#33ff00;fill-opacity:1"
    id="tspan4993">Elektronik</tspan> værksted(er),</tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="490.6756"
-           style="text-align:center;text-anchor:middle;fill:#ff3300;fill-opacity:1;stroke-width:0.26458332"
-           id="tspan5001">LaserSkærer<tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="252.02072"
+         style="text-align:center;text-anchor:middle;fill:#ff3300;fill-opacity:1;stroke-width:0.264583"
+         id="tspan5001">LaserSkærer<tspan
    style="fill:#000000;fill-opacity:1"
    id="tspan4999">, 3D printere, CNC-Overfræser,</tspan></tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="506.5506"
-           style="text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke-width:0.26458332"
-           id="tspan5007">Drejebænk<tspan
+         sodipodi:role="line"
+         x="148.40756"
+         y="267.89572"
+         style="text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan5007">Drejebænk<tspan
    style="fill:#000000;fill-opacity:1"
    id="tspan5009">, Symaskiner, borde og stole, tavler,</tspan></tspan><tspan
-           sodipodi:role="line"
-           x="819.81775"
-           y="522.4256"
-           style="text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke-width:0.26458332"
-           id="tspan5011"><tspan
-             style="fill:#000000;fill-opacity:1"
-             id="tspan5013">Amatør radio, og Meget mere!</tspan></tspan></text>
-    </g>
+         sodipodi:role="line"
+         x="148.40756"
+         y="283.77072"
+         style="text-align:center;text-anchor:middle;fill:#0033ff;fill-opacity:1;stroke-width:0.264583"
+         id="tspan5011"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan5013">Amatør radio, og Meget mere!</tspan></tspan></text>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2" />
 </svg>
